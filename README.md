@@ -1,7 +1,7 @@
 still in developing but almost done
 
 ## I used
-- Retrofit
+- Retrofit for hourly forecast
 - Room
 - Executor service(i will change it to use RXJAVA)
 - Navigation graph
