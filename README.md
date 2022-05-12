@@ -4,7 +4,7 @@ still in developing but almost done
 - Retrofit
 - Room
 - Executor service(i will change it to use RXJAVA)
-- Navigaion graph
+- Navigation graph
 - WorkManager
 - AlarmManager
 
