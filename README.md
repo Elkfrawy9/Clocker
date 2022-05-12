@@ -10,3 +10,5 @@ still in developing but almost done
 
 ## screenshots
 ![Task](https://user-images.githubusercontent.com/60475172/168001121-19ca4f2d-2b3e-4d3e-bba8-3f2d0fc64f56.png =250x250)
+
+<img src="https://user-images.githubusercontent.com/60475172/168001121-19ca4f2d-2b3e-4d3e-bba8-3f2d0fc64f56.png" width="200" height="400" />
