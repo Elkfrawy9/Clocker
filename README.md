@@ -6,7 +6,7 @@
 
 ## still working on it, adding more features and fixing bugs
 
-## I used
+## Languages, libraries and tools used
 - Java
 - Retrofit for hourly forecast
 - Room
