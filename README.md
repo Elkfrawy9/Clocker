@@ -5,6 +5,7 @@
 - Timer
 
 ## still working on it, adding more features and fixing bugs
+## currently working on building the smae app but with kotlin and dagger-hilt with more features and improve performance
 
 ## Languages, libraries and tools used
 - Java
