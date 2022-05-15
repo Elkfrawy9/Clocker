@@ -1,12 +1,21 @@
-still in developing but almost done
+## About
+- create daily tasks with hourly forecast from accuWeather API
+- set upcoming event with notification alert
+- StopWatch
+- Timer
+
+## still working on it, adding more features and fixing bugs
 
 ## I used
+- Java
 - Retrofit for hourly forecast
 - Room
 - Executor service(i will change it to use RXJAVA)
 - Navigation graph
 - WorkManager
 - AlarmManager
+- BroadCast and Service
+- MVVM
 
 ## screenshots
 
