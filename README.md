@@ -11,6 +11,7 @@
 - Java
 - Retrofit for hourly forecast
 - Room
+- Recycler View
 - Executor service(i will change it to use RXJAVA)
 - Navigation graph
 - WorkManager
